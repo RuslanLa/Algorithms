@@ -44,6 +44,7 @@
     <Compile Include="Implementations\Easy\BirthDayChocolate\WaysCounter.cs" />
     <Compile Include="Implementations\Easy\BreakingBestAndWorst\BestAndWorstCounter.cs" />
     <Compile Include="Implementations\Easy\BreakingBestAndWorst\CounterResult.cs" />
+    <Compile Include="Implementations\Easy\DayOfTheProgrammer\ProgrammerDay.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
