@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Hackerrank.Solutions.Implementations.Easy.BirthdayCakeCandles
 {
+    /// <summary>
+    /// Solution for https://www.hackerrank.com/challenges/birthday-cake-candles
+    /// </summary>
     public class CandlesCalculater
     {
         public uint Calculate(IEnumerable<uint> candles)
