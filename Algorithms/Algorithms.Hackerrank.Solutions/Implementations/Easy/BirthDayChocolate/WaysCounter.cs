@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.Hackerrank.Solutions.Implementations.BirthDayChocolate
+namespace Algorithms.Hackerrank.Solutions.Implementations.Easy.BirthDayChocolate
 {
     /// <summary>
     /// Solution for https://www.hackerrank.com/challenges/the-birthday-bar
