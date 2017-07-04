@@ -48,6 +48,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\Medium\RichieRich\NumberGenerater.cs" />
     <Compile Include="Strings\Medium\RichieRich\BytePair.cs" />
+    <Compile Include="Strings\Medium\SherlockAndAnagrams\AnagramsCounter.cs" />
+    <Compile Include="Strings\Medium\SherlockAndAnagrams\OrderedWord.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
