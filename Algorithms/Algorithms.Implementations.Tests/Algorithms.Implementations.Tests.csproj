@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HackerRankSolutions\Strings\Medium\AnagramsCounterTest.cs" />
+    <Compile Include="HackerRankSolutions\WaterCounterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structures\Trees\DirectRightNodeRepository.cs" />
     <Compile Include="Structures\Trees\DirectRightNodeTests.cs" />
