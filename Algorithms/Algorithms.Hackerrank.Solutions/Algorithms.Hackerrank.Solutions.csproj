@@ -52,6 +52,7 @@
     <Compile Include="Implementations\Easy\BreakingBestAndWorst\CounterResult.cs" />
     <Compile Include="Implementations\Easy\DayOfTheProgrammer\ProgrammerDay.cs" />
     <Compile Include="Implementations\Easy\SwimmingPool\WaterCounter.cs" />
+    <Compile Include="Implementations\LargestHistogramSquareCalculator.cs" />
     <Compile Include="Implementations\SortSwapsCountCalculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\Medium\RichieRich\NumberGenerater.cs" />
