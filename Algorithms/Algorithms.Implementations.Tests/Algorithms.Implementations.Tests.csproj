@@ -70,6 +70,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HackerRankSolutions\SortSwapCountCalculatorTest.cs" />
     <Compile Include="HackerRankSolutions\Strings\Medium\AnagramsCounterTest.cs" />
     <Compile Include="HackerRankSolutions\WaterCounterTests.cs" />
     <Compile Include="HamingCode\CheckerTest.cs" />
