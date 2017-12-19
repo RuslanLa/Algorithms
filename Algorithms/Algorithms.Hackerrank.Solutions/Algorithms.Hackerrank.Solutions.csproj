@@ -47,6 +47,7 @@
     <Compile Include="HammingsCode\Checker.cs" />
     <Compile Include="HammingsCode\CodeOperator.cs" />
     <Compile Include="HammingsCode\Encoder.cs" />
+    <Compile Include="Implementations\BasicRegexParser.cs" />
     <Compile Include="Implementations\Easy\BirthDayChocolate\WaysCounter.cs" />
     <Compile Include="Implementations\Easy\BreakingBestAndWorst\BestAndWorstCounter.cs" />
     <Compile Include="Implementations\Easy\BreakingBestAndWorst\CounterResult.cs" />
