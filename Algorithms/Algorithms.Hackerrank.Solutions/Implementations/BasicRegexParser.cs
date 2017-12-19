@@ -28,11 +28,25 @@ namespace Algorithms.Hackerrank.Solutions.Implementations
             var isEndOfTheText = IsEndOfTheText(text, textIndex);
             var isEndOfThePattern = IsEndOfTheText(pattern, patternIndex);
             var isAsteriskAfterCurrent = IsAsteriskAfterCurrent(pattern, patternIndex);
-            if ((isEndOfThePattern && isEndOfTheText) || (isEndOfTheText &&
-                                                          IsAsteriskAfterCurrent(pattern, patternIndex) &&
-                                                          (patternIndex + 2 == pattern.Length || IsPoint(pattern, patternIndex))))
+            if (isEndOfThePattern && isEndOfTheText)
             {
                 return true;
+            }
+
+            if(isEndOfTheText)
+            {
+                if (IsAsteriskAfterCurrent(pattern, patternIndex))
+                {
+                    if (patternIndex + 2 == pattern.Length)
+                    {
+                        return true;
+                    }
+
+                    if (IsPoint(pattern, patternIndex))
+                    {
+                        return IsMatch(text, pattern, textIndex, patternIndex + 2);
+                    }
+                }
             }
 
             if (isEndOfTheText || isEndOfThePattern)

@@ -20,6 +20,14 @@ namespace Algorithms.Implementations.Tests.HackerRankSolutions
 
         [Theory]
         [InlineData("abaa", "a.*a*", true)]
+        [InlineData("bbbbbbbb", ".*.*.*.*a", false)]
+        [InlineData("", "", true)]
+        [InlineData("aa", "a", false)]
+        [InlineData("", "a*", true)]
+        [InlineData("abbdbb", "ab*d", false)]
+        [InlineData("aba", "a.a", true)]
+        [InlineData("acd", "ab*c.", true)]
+        [InlineData("abaa", "a.*a*", true)]
         public void TestParse(string text, string pattern, bool expectedResult)
         {
             var actualResult = _parser.IsMatch(text, pattern);
