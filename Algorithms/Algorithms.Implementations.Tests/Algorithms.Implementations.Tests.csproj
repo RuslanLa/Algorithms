@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HackerRankSolutions\BasicRegexParserTests.cs" />
+    <Compile Include="HackerRankSolutions\CalendarMergerTests.cs" />
     <Compile Include="HackerRankSolutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="HackerRankSolutions\SortSwapCountCalculatorTest.cs" />
     <Compile Include="HackerRankSolutions\Strings\Medium\AnagramsCounterTest.cs" />
