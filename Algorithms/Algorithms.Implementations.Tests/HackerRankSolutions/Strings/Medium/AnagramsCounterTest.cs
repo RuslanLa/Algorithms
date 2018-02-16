@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Algorithms.Hackerrank.Solutions.Strings.Medium.SherlockAndAnagrams;
+using Algorithms.Solutions.Strings.Medium.SherlockAndAnagrams;
 using Shouldly;
 using Xunit;
 

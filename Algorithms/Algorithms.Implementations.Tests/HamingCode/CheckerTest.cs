@@ -1,4 +1,5 @@
 ﻿using Algorithms.Hackerrank.Solutions.HammingsCode;
+using Algorithms.Solutions.HammingsCode;
 using Shouldly;
 using Xunit;
 

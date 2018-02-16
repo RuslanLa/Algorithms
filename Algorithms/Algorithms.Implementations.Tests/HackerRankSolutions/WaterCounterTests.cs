@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Shouldly;
 using Xunit;
-using Algorithms.Hackerrank.Solutions.Implementations.Easy.SwimmingPool;
+using Algorithms.Solutions.Implementations.Easy.SwimmingPool;
 
 namespace Algorithms.Implementations.Tests.HackerRankSolutions
 {
