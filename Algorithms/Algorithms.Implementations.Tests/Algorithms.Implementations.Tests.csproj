@@ -67,6 +67,8 @@
     <Compile Include="Solutions\BasicRegexParserTests.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
+    <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
+    <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
     <Compile Include="Solutions\SortSwapCountCalculatorTest.cs" />
     <Compile Include="Solutions\Strings\Medium\AnagramsCounterTest.cs" />
     <Compile Include="Solutions\WaterCounterTests.cs" />

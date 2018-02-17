@@ -53,6 +53,8 @@
     <Compile Include="Solutions\BreakingBestAndWorst\BestAndWorstCounter.cs" />
     <Compile Include="Solutions\BreakingBestAndWorst\CounterResult.cs" />
     <Compile Include="Solutions\DayOfTheProgrammer\ProgrammerDay.cs" />
+    <Compile Include="Solutions\RgbToHex\ByteExtensions.cs" />
+    <Compile Include="Solutions\RgbToHex\Rgb.cs" />
     <Compile Include="Solutions\SwimmingPool\WaterCounter.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculator.cs" />
     <Compile Include="Solutions\SortSwapsCountCalculator.cs" />
