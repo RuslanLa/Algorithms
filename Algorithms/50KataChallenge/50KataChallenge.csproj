@@ -4,4 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\RgbToHex\Kata.cs" Link="RgbToHex\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="HighestScoringWord\" />
+    <Folder Include="Valid Parentheses\" />
+    <Folder Include="RgbToHex\" />
+  </ItemGroup>
+
 </Project>

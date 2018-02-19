@@ -53,8 +53,10 @@
     <Compile Include="Solutions\BreakingBestAndWorst\BestAndWorstCounter.cs" />
     <Compile Include="Solutions\BreakingBestAndWorst\CounterResult.cs" />
     <Compile Include="Solutions\DayOfTheProgrammer\ProgrammerDay.cs" />
+    <Compile Include="Solutions\HighestScoringWord\Kata.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensions.cs" />
     <Compile Include="Solutions\RgbToHex\Rgb.cs" />
+    <Compile Include="Solutions\RgbToHex\Kata.cs" />
     <Compile Include="Solutions\SwimmingPool\WaterCounter.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculator.cs" />
     <Compile Include="Solutions\SortSwapsCountCalculator.cs" />
@@ -63,6 +65,7 @@
     <Compile Include="Solutions\Strings\Medium\RichieRich\BytePair.cs" />
     <Compile Include="Solutions\Strings\Medium\SherlockAndAnagrams\AnagramsCounter.cs" />
     <Compile Include="Solutions\Strings\Medium\SherlockAndAnagrams\OrderedWord.cs" />
+    <Compile Include="Solutions\ValidParentheses\Kata.cs" />
     <Compile Include="Structures\Pair.cs" />
     <Compile Include="Structures\Trees\BaseBinaryTreeNode.cs" />
     <Compile Include="Structures\Trees\DirectRightNode.cs" />
