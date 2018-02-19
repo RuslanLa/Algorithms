@@ -55,6 +55,8 @@
     <Compile Include="Solutions\BreakingBestAndWorst\CounterResult.cs" />
     <Compile Include="Solutions\DayOfTheProgrammer\ProgrammerDay.cs" />
     <Compile Include="Solutions\HighestScoringWord\Kata.cs" />
+    <Compile Include="Solutions\IntRecreation\LongExtensions.cs" />
+    <Compile Include="Solutions\IntRecreation\SumSquaredDivisors.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensions.cs" />
     <Compile Include="Solutions\RgbToHex\Rgb.cs" />
     <Compile Include="Solutions\RgbToHex\Kata.cs" />

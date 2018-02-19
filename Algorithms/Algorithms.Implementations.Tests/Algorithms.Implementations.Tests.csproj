@@ -67,6 +67,7 @@
     <Compile Include="Solutions\BasicRegexParserTests.cs" />
     <Compile Include="Solutions\BigPronic\PronicDetectorTest.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
+    <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
     <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
