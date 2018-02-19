@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Solutions\BasicRegexParserTests.cs" />
+    <Compile Include="Solutions\BigPronic\PronicDetectorTest.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />

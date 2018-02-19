@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
     <Compile Include="Solutions\HammingsCode\Checker.cs" />
     <Compile Include="Solutions\HammingsCode\CodeOperator.cs" />
