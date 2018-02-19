@@ -9,7 +9,7 @@ public class Parentheses
     public static bool ValidParentheses(string input)
     {
         var stack = new Stack<bool>();
-        foreach (var isOpening in input.Select(c=>c == '('))
+        foreach (var isOpening in input.Where(c=>c == '(' || c==')').Select(c=>c == '('))
         {
             if (isOpening)
             {
