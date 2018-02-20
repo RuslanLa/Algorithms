@@ -69,6 +69,7 @@
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
+    <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
     <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
     <Compile Include="Solutions\SortSwapCountCalculatorTest.cs" />
