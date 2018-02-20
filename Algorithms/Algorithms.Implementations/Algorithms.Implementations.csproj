@@ -58,6 +58,9 @@
     <Compile Include="Solutions\IntRecreation\Kata.cs" />
     <Compile Include="Solutions\IntRecreation\LongExtensions.cs" />
     <Compile Include="Solutions\IntRecreation\SumSquaredDivisors.cs" />
+    <Compile Include="Solutions\RangeExtraction\IntArrayExtensions.cs" />
+    <Compile Include="Solutions\RangeExtraction\Kata.cs" />
+    <Compile Include="Solutions\RangeExtraction\Range.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensions.cs" />
     <Compile Include="Solutions\RgbToHex\Rgb.cs" />
     <Compile Include="Solutions\RgbToHex\Kata.cs" />

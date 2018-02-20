@@ -14,10 +14,9 @@ namespace Algorithms.Implementations.Solutions.IntRecreation
         public static string ListSquared(long m, long n)
         {
             return $"[{String.Join(",", CalculateListSquared(m, n).Select(x=>$"[{String.Join(",",x)}]"))}]";
-            // your code
         }
 
-        public static List<long[]> CalculateListSquared(long m, long n)
+        private static List<long[]> CalculateListSquared(long m, long n)
         {
             var results = new List<long[]>();
             for (var i = m; i <= n; i++)
