@@ -72,6 +72,7 @@
     <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
     <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
+    <Compile Include="Solutions\Rot13\StringExtensionsTests.cs" />
     <Compile Include="Solutions\SortSwapCountCalculatorTest.cs" />
     <Compile Include="Solutions\Strings\Medium\AnagramsCounterTest.cs" />
     <Compile Include="Solutions\WaterCounterTests.cs" />

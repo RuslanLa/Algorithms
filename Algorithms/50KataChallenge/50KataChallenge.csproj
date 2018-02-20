@@ -9,7 +9,9 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RangeExtraction\Kata.cs" Link="RangeExtraction\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\ReadableDurationFormat\Kata.cs" Link="ReadableDurationFormat\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RgbToHex\Kata.cs" Link="RgbToHex\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\Rot13\Kata.cs" Link="Rot13\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
   </ItemGroup>
 
@@ -17,6 +19,8 @@
     <Folder Include="HighestScoringWord\" />
     <Folder Include="BigPronic\" />
     <Folder Include="IntRecreation\" />
+    <Folder Include="ReadableDurationFormat\" />
+    <Folder Include="Rot13\" />
     <Folder Include="RangeExtraction\" />
     <Folder Include="Valid Parentheses\" />
     <Folder Include="RgbToHex\" />

@@ -69,6 +69,8 @@
     <Compile Include="Solutions\RgbToHex\ByteExtensions.cs" />
     <Compile Include="Solutions\RgbToHex\Rgb.cs" />
     <Compile Include="Solutions\RgbToHex\Kata.cs" />
+    <Compile Include="Solutions\Rot13\Kata.cs" />
+    <Compile Include="Solutions\Rot13\StringExtensions.cs" />
     <Compile Include="Solutions\SwimmingPool\WaterCounter.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculator.cs" />
     <Compile Include="Solutions\SortSwapsCountCalculator.cs" />
