@@ -6,8 +6,10 @@
 
   <ItemGroup>
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\NonBouncyNumbers\Kata.cs" Link="NonBouncyNumbers\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RangeExtraction\Kata.cs" Link="RangeExtraction\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ReadableDurationFormat\Kata.cs" Link="ReadableDurationFormat\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RgbToHex\Kata.cs" Link="RgbToHex\Kata.cs" />
@@ -20,6 +22,8 @@
     <Folder Include="HighestScoringWord\" />
     <Folder Include="BigPronic\" />
     <Folder Include="IntRecreation\" />
+    <Folder Include="Darts\" />
+    <Folder Include="NonBouncyNumbers\" />
     <Folder Include="SelectMedian\" />
     <Folder Include="ReadableDurationFormat\" />
     <Folder Include="Rot13\" />

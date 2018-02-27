@@ -39,6 +39,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -70,6 +71,7 @@
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
+    <Compile Include="Solutions\NonBouncyNumbers\CounterTests.cs" />
     <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
     <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
