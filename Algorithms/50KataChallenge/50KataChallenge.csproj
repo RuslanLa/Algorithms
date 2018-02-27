@@ -9,6 +9,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\MoleculToAtoms\Kata.cs" Link="MoleculToAtoms\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\NonBouncyNumbers\Kata.cs" Link="NonBouncyNumbers\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RangeExtraction\Kata.cs" Link="RangeExtraction\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ReadableDurationFormat\Kata.cs" Link="ReadableDurationFormat\Kata.cs" />
@@ -23,6 +24,7 @@
     <Folder Include="BigPronic\" />
     <Folder Include="IntRecreation\" />
     <Folder Include="Darts\" />
+    <Folder Include="MoleculToAtoms\" />
     <Folder Include="NonBouncyNumbers\" />
     <Folder Include="SelectMedian\" />
     <Folder Include="ReadableDurationFormat\" />

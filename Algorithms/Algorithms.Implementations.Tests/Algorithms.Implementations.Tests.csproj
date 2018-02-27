@@ -71,6 +71,7 @@
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
+    <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilderTests.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\CounterTests.cs" />
     <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
@@ -97,6 +98,7 @@
       <Name>Algorithms.Implementations</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
