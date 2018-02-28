@@ -14,6 +14,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\RangeExtraction\Kata.cs" Link="RangeExtraction\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ReadableDurationFormat\Kata.cs" Link="ReadableDurationFormat\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RgbToHex\Kata.cs" Link="RgbToHex\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\RomanNumerals\RomanDecode.cs" Link="RomanNumerals\RomanDecode.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Rot13\Kata.cs" Link="Rot13\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SelectMedian\Kata.cs" Link="SelectMedian\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
@@ -25,6 +26,7 @@
     <Folder Include="IntRecreation\" />
     <Folder Include="Darts\" />
     <Folder Include="MoleculToAtoms\" />
+    <Folder Include="RomanNumerals\" />
     <Folder Include="NonBouncyNumbers\" />
     <Folder Include="SelectMedian\" />
     <Folder Include="ReadableDurationFormat\" />
