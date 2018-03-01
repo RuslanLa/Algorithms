@@ -17,6 +17,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\RomanNumerals\RomanDecode.cs" Link="RomanNumerals\RomanDecode.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Rot13\Kata.cs" Link="Rot13\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SelectMedian\Kata.cs" Link="SelectMedian\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\SumByFactors\SumOfDivided.cs" Link="SumByFactors\SumOfDivided.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
   </ItemGroup>
 
@@ -26,6 +27,7 @@
     <Folder Include="IntRecreation\" />
     <Folder Include="Darts\" />
     <Folder Include="MoleculToAtoms\" />
+    <Folder Include="SumByFactors\" />
     <Folder Include="RomanNumerals\" />
     <Folder Include="NonBouncyNumbers\" />
     <Folder Include="SelectMedian\" />

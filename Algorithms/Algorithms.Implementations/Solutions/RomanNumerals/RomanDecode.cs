@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace Algorithms.Implementations.Solutions.RomanNumerals
     /// <summary>
     /// Solution for https://www.codewars.com/kata/51b6249c4612257ac0000005/csharp
     /// </summary>
-    public class RomanDecode
+    public class RomanDecode : IEnumerable<int>
     {
         public static int Solution(string roman)
         {
@@ -51,6 +52,16 @@ namespace Algorithms.Implementations.Solutions.RomanNumerals
                 default:
                     return 0;
             }
+        }
+
+        public IEnumerator<int> GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

@@ -79,6 +79,7 @@
     <Compile Include="Solutions\Rot13\StringExtensionsTests.cs" />
     <Compile Include="Solutions\SortSwapCountCalculatorTest.cs" />
     <Compile Include="Solutions\Strings\Medium\AnagramsCounterTest.cs" />
+    <Compile Include="Solutions\SumByFactors\SumOfDividedTests.cs" />
     <Compile Include="Solutions\WaterCounterTests.cs" />
     <Compile Include="Solutions\HamingCode\CheckerTest.cs" />
     <Compile Include="Solutions\HamingCode\EncoderTest.cs" />
