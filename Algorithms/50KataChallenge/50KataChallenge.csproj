@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
@@ -27,6 +28,7 @@
     <Folder Include="IntRecreation\" />
     <Folder Include="Darts\" />
     <Folder Include="MoleculToAtoms\" />
+    <Folder Include="BreadCrumb\" />
     <Folder Include="SumByFactors\" />
     <Folder Include="RomanNumerals\" />
     <Folder Include="NonBouncyNumbers\" />

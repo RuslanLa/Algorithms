@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
+    <Compile Include="Solutions\BreadCrumb\BreadCrumbGenerator.cs" />
+    <Compile Include="Solutions\BreadCrumb\Kata.cs" />
     <Compile Include="Solutions\Darts\Kata.cs" />
     <Compile Include="Solutions\Darts\ScoreCalculator.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
