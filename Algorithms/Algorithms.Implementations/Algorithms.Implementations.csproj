@@ -96,6 +96,8 @@
     <Compile Include="Solutions\Strings\Medium\RichieRich\BytePair.cs" />
     <Compile Include="Solutions\Strings\Medium\SherlockAndAnagrams\AnagramsCounter.cs" />
     <Compile Include="Solutions\Strings\Medium\SherlockAndAnagrams\OrderedWord.cs" />
+    <Compile Include="Solutions\TicTacToe\Kata.cs" />
+    <Compile Include="Solutions\TicTacToe\Player.cs" />
     <Compile Include="Solutions\ValidParentheses\Kata.cs" />
     <Compile Include="Structures\Pair.cs" />
     <Compile Include="Structures\Trees\BaseBinaryTreeNode.cs" />
