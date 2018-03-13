@@ -72,6 +72,7 @@
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
+    <Compile Include="Solutions\LastDigitOfHugeNumber\CalculatorTests.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilderTests.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\CounterTests.cs" />
     <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />

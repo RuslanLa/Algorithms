@@ -10,6 +10,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MoleculToAtoms\Kata.cs" Link="MoleculToAtoms\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MorseCode\Kata.cs" Link="MorseCode\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\NonBouncyNumbers\Kata.cs" Link="NonBouncyNumbers\Kata.cs" />
@@ -32,6 +33,7 @@
     <Folder Include="MoleculToAtoms\" />
     <Folder Include="BreadCrumb\" />
     <Folder Include="MorseCode\" />
+    <Folder Include="LastDigitOfHugeNumber\" />
     <Folder Include="TicTacToe\" />
     <Folder Include="SumByFactors\" />
     <Folder Include="RomanNumerals\" />

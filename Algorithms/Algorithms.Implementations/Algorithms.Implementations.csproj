@@ -63,6 +63,8 @@
     <Compile Include="Solutions\IntRecreation\Kata.cs" />
     <Compile Include="Solutions\IntRecreation\LongExtensions.cs" />
     <Compile Include="Solutions\IntRecreation\SumSquaredDivisors.cs" />
+    <Compile Include="Solutions\LastDigitOfHugeNumber\Calculator.cs" />
+    <Compile Include="Solutions\LastDigitOfHugeNumber\Kata.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTree.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilder.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeConverter.cs" />
