@@ -68,6 +68,7 @@
     <Compile Include="Solutions\BasicRegexParserTests.cs" />
     <Compile Include="Solutions\BigPronic\PronicDetectorTest.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGeneratorTests.cs" />
+    <Compile Include="Solutions\ExpressionCalculator\EvaluatorTest.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />

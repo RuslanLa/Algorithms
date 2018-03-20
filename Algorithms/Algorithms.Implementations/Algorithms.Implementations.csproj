@@ -47,9 +47,12 @@
     <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGenerator.cs" />
     <Compile Include="Solutions\BreadCrumb\Kata.cs" />
+    <Compile Include="Solutions\ExpressionCalculator\CharExtensions.cs" />
+    <Compile Include="Solutions\ExpressionCalculator\Evaluator.cs" />
     <Compile Include="Solutions\Darts\Kata.cs" />
     <Compile Include="Solutions\Darts\ScoreCalculator.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
+    <Compile Include="Solutions\ExpressionCalculator\Kata.cs" />
     <Compile Include="Solutions\HammingsCode\Checker.cs" />
     <Compile Include="Solutions\HammingsCode\CodeOperator.cs" />
     <Compile Include="Solutions\HammingsCode\Encoder.cs" />

@@ -8,6 +8,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\ExpressionCalculator\Evaluator.cs" Link="ExpressionCalculator\Evaluator.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
@@ -34,6 +35,7 @@
     <Folder Include="BreadCrumb\" />
     <Folder Include="MorseCode\" />
     <Folder Include="LastDigitOfHugeNumber\" />
+    <Folder Include="ExpressionCalculator\" />
     <Folder Include="TicTacToe\" />
     <Folder Include="SumByFactors\" />
     <Folder Include="RomanNumerals\" />
