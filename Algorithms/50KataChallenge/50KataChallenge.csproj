@@ -10,6 +10,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Esolang\MiniString\Kata.cs" Link="Esolang\Ministring\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ExpressionCalculator\Kata.cs" Link="ExpressionCalculator\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\Graphics\Kata.cs" Link="Graphics\Lines\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
@@ -29,6 +30,7 @@
 
   <ItemGroup>
     <Folder Include="Esolang\Ministring\" />
+    <Folder Include="Graphics\Lines\" />
     <Folder Include="HighestScoringWord\" />
     <Folder Include="BigPronic\" />
     <Folder Include="IntRecreation\" />

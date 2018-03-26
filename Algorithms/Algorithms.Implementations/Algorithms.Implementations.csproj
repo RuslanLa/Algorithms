@@ -55,6 +55,8 @@
     <Compile Include="Solutions\Darts\ScoreCalculator.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
     <Compile Include="Solutions\ExpressionCalculator\Kata.cs" />
+    <Compile Include="Solutions\Graphics\Drawer.cs" />
+    <Compile Include="Solutions\Graphics\Kata.cs" />
     <Compile Include="Solutions\HammingsCode\Checker.cs" />
     <Compile Include="Solutions\HammingsCode\CodeOperator.cs" />
     <Compile Include="Solutions\HammingsCode\Encoder.cs" />

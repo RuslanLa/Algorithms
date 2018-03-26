@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using Algorithms.Implementations.Solutions.Esolang.MiniString;
-using Algorithms.Implementations.Solutions.ExpressionCalculator;
+﻿using Algorithms.Implementations.Solutions.ExpressionCalculator;
 using Shouldly;
 using Xunit;
 
@@ -32,9 +29,7 @@ namespace Algorithms.Implementations.Tests.Solutions.ExpressionCalculator
 
         public void Evaluate(string expression, double expected)
         {
-            var str = String.Join("", Enumerable.Range(0, 255).Select(x => '+'));
-            str += "."+ String.Join("", Enumerable.Range(0, 66).Select(x => '+'))+".";
-            var result = Interpreter.Execute(str);
+            _evaluator.Evaluate(expression).ShouldBe(expected);
         }
 
     }
