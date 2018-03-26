@@ -47,6 +47,8 @@
     <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGenerator.cs" />
     <Compile Include="Solutions\BreadCrumb\Kata.cs" />
+    <Compile Include="Solutions\Esolang\MiniString\Interpreter.cs" />
+    <Compile Include="Solutions\Esolang\MiniString\Kata.cs" />
     <Compile Include="Solutions\ExpressionCalculator\CharExtensions.cs" />
     <Compile Include="Solutions\ExpressionCalculator\Evaluator.cs" />
     <Compile Include="Solutions\Darts\Kata.cs" />
