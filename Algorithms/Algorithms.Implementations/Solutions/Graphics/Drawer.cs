@@ -8,6 +8,7 @@ namespace Algorithms.Implementations.Solutions.Graphics
 {
     /// <summary>
     /// Solution for http://www.codewars.com/kata/569e0778f3b6ef81b7000046/csharp
+    /// and for http://www.codewars.com/kata/graphics-02-drawing-circles
     /// </summary>
     public static class Drawer
     {

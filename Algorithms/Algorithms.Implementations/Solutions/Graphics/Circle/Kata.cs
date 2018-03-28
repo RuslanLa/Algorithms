@@ -1,6 +1,7 @@
 ﻿//using System.Collections.Generic;
 //using System.Linq;
 
+////Implementation of http://www.codewars.com/kata/graphics-02-drawing-circles
 //namespace smile67Kata
 //{
 //    using System;
