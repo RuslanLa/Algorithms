@@ -12,6 +12,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\ExpressionCalculator\Kata.cs" Link="ExpressionCalculator\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Graphics\Circle\Kata.cs" Link="Graphics\Circles\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Graphics\Kata.cs" Link="Graphics\Lines\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\HammingNumbers\Kata.cs" Link="HammingNumbers\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
@@ -42,6 +43,7 @@
     <Folder Include="MorseCode\" />
     <Folder Include="LastDigitOfHugeNumber\" />
     <Folder Include="ExpressionCalculator\" />
+    <Folder Include="HammingNumbers\" />
     <Folder Include="TicTacToe\" />
     <Folder Include="SumByFactors\" />
     <Folder Include="RomanNumerals\" />

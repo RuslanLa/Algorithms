@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Implementations.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Implementations", "Algorithms.Implementations\Algorithms.Implementations.csproj", "{742E0D13-0297-4F9F-B838-B68CADEC9EEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50KataChallenge", "50KataChallenge\50KataChallenge.csproj", "{F0175953-498A-4AFE-B66A-666C7F3FE939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50KataChallenge", "50KataChallenge\50KataChallenge.csproj", "{F0175953-498A-4AFE-B66A-666C7F3FE939}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

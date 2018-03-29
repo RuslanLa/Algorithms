@@ -58,6 +58,8 @@
     <Compile Include="Solutions\Graphics\Circle\Kata.cs" />
     <Compile Include="Solutions\Graphics\Drawer.cs" />
     <Compile Include="Solutions\Graphics\Line\Kata.cs" />
+    <Compile Include="Solutions\HammingNumbers\Calculator.cs" />
+    <Compile Include="Solutions\HammingNumbers\Kata.cs" />
     <Compile Include="Solutions\HammingsCode\Checker.cs" />
     <Compile Include="Solutions\HammingsCode\CodeOperator.cs" />
     <Compile Include="Solutions\HammingsCode\Encoder.cs" />
