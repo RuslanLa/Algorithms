@@ -19,6 +19,18 @@ namespace Algorithms.Implementations.Solutions.Graphics
                 X = x;
                 Y = y;
             }
+            public Point(double x, double y)
+            {
+                if (x < Int32.MaxValue && x > Int32.MinValue)
+                {
+                    X = (int)Math.Round(x);
+                }
+
+                if (y < Int32.MaxValue && x > Int32.MinValue)
+                {
+                    Y = (int)Math.Round(y);
+                }
+            }
             public  int X { get;}
             public int Y { get; }
             public override bool Equals(object obj)
@@ -35,6 +47,16 @@ namespace Algorithms.Implementations.Solutions.Graphics
             public override int GetHashCode()
             {
                 return X ^ Y;
+            }
+
+            public Point CorrectToCenter(Point center)
+            {
+                return new Point(X + center.X, Y + center.Y);
+            }
+
+            public Point Project()
+            {
+                return new Point(X, -Y);
             }
         }
 
@@ -73,16 +95,14 @@ namespace Algorithms.Implementations.Solutions.Graphics
 
         private static bool IsPointHidden(int x, int y)
         {
-            return x > 100 || x < 0 || y > 50 || y < 0;
+            return x > 99 || x < 0 || y > 49 || y < 0;
         }
 
-        private static IEnumerable<Point> GetCirclePointsForX(int xCenter, int yCenter, int x, int r)
+        private static Point GetCirclePointsForTheta(Point center, int theta, int r)
         {
-            var yPoint = (int)Math.Sqrt(r*r - x * x);
-            yield return new Point(x, yPoint);
-            yield return new Point((xCenter - x) + xCenter, yPoint);
-            yield return new Point(x, (yCenter - yPoint) + yCenter);
-            yield return new Point((xCenter - x) + xCenter, (yCenter - yPoint) + yCenter);
+            double x = center.X + r * Math.Cos(theta * Math.PI / 180);
+            double y = center.Y + r * Math.Sin(theta * Math.PI / 180);
+            return new Point(x, y);
         }
 
         public static IEnumerable<Point> GetVisiblePartOfCircle(int x, int y, int r)
@@ -92,7 +112,9 @@ namespace Algorithms.Implementations.Solutions.Graphics
 
         private static IEnumerable<Point> GetAllCirclePoints(int x, int y, int r)
         {
-            return Enumerable.Range(x - r, r + 1).SelectMany(i => GetCirclePointsForX(x, y, i, r)).Distinct();
+            var newCenter = new Point(x, y).Project();
+            return Enumerable.Range(0, 360).Select(i => GetCirclePointsForTheta(newCenter, i, r))
+                .Select(p => p.Project()).Distinct();
         }
     }
 }
