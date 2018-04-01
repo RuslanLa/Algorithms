@@ -99,6 +99,7 @@
     <Compile Include="Solutions\Rot13\Kata.cs" />
     <Compile Include="Solutions\Rot13\StringExtensions.cs" />
     <Compile Include="Solutions\SelectMedian\Kata.cs" />
+    <Compile Include="Solutions\StringSplit\Splitter.cs" />
     <Compile Include="Solutions\SumByFactors\SumOfDivided.cs" />
     <Compile Include="Solutions\SwimmingPool\WaterCounter.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculator.cs" />
