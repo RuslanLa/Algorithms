@@ -85,6 +85,7 @@
     <Compile Include="Solutions\Strings\Medium\AnagramsCounterTest.cs" />
     <Compile Include="Solutions\SumByFactors\SumOfDividedTests.cs" />
     <Compile Include="Solutions\TicTacToe\PlayerTests.cs" />
+    <Compile Include="Solutions\UnknowDigit\DigitCalculatorTest.cs" />
     <Compile Include="Solutions\WaterCounterTests.cs" />
     <Compile Include="Solutions\HamingCode\CheckerTest.cs" />
     <Compile Include="Solutions\HamingCode\EncoderTest.cs" />
