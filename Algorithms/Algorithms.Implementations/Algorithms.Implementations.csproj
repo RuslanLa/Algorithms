@@ -82,6 +82,8 @@
     <Compile Include="Solutions\MoleculToAtoms\MoleculConverter.cs" />
     <Compile Include="Solutions\MorseCode\Kata.cs" />
     <Compile Include="Solutions\MorseCode\StringExtensions.cs" />
+    <Compile Include="Solutions\Multiples\Kata.cs" />
+    <Compile Include="Solutions\Multiples\MultiplesCalculator.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Counter.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Kata.cs" />
     <Compile Include="Solutions\RangeExtraction\IntArrayExtensions.cs" />
