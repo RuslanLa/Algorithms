@@ -86,6 +86,7 @@
     <Compile Include="Solutions\Multiples\MultiplesCalculator.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Counter.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Kata.cs" />
+    <Compile Include="Solutions\PerfectTree\TreeNode.cs" />
     <Compile Include="Solutions\RangeExtraction\IntArrayExtensions.cs" />
     <Compile Include="Solutions\RangeExtraction\Kata.cs" />
     <Compile Include="Solutions\RangeExtraction\Range.cs" />

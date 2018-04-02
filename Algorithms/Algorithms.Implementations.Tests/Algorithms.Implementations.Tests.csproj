@@ -78,6 +78,7 @@
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilderTests.cs" />
     <Compile Include="Solutions\Multiples\MultiplesCalculatorTests.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\CounterTests.cs" />
+    <Compile Include="Solutions\PerfectTree\TreeNode.cs" />
     <Compile Include="Solutions\ReadableDurationFormat\DurationConverterTests.cs" />
     <Compile Include="Solutions\RgbToHex\ByteExtensionsTests.cs" />
     <Compile Include="Solutions\RgbToHex\RgbTests.cs" />
