@@ -55,6 +55,8 @@
     <Compile Include="Solutions\Darts\ScoreCalculator.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
     <Compile Include="Solutions\ExpressionCalculator\Kata.cs" />
+    <Compile Include="Solutions\FactorialTail\Calculator.cs" />
+    <Compile Include="Solutions\FactorialTail\Kata.cs" />
     <Compile Include="Solutions\Graphics\Circle\Kata.cs" />
     <Compile Include="Solutions\Graphics\Drawer.cs" />
     <Compile Include="Solutions\Graphics\Line\Kata.cs" />
