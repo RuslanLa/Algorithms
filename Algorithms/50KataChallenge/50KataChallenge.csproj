@@ -16,6 +16,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\HammingNumbers\Kata.cs" Link="HammingNumbers\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HighestScoringWord\Kata.cs" Link="HighestScoringWord\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\IntRecreation\Kata.cs" Link="IntRecreation\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\IQTest\NumberSearcher.cs" Link="IQTest\NumberSearcher.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MagnetParticulesInBoxes\Magnets.cs" Link="MagnetParticulesInBoxes\Magnets.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MoleculToAtoms\Kata.cs" Link="MoleculToAtoms\Kata.cs" />
@@ -44,6 +45,7 @@
     <Folder Include="BigPronic\" />
     <Folder Include="IntRecreation\" />
     <Folder Include="Darts\" />
+    <Folder Include="IQTest\" />
     <Folder Include="MoleculToAtoms\" />
     <Folder Include="BreadCrumb\" />
     <Folder Include="MorseCode\" />
