@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solutions\BaseConversion\Alphabet.cs" />
+    <Compile Include="Solutions\BaseConversion\Converter.cs" />
+    <Compile Include="Solutions\BaseConversion\Kata.cs" />
     <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGenerator.cs" />
     <Compile Include="Solutions\BreadCrumb\Kata.cs" />

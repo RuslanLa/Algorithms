@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="..\Algorithms.Implementations\Solutions\BaseConversion\Kata.cs" Link="BaseConversion\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
@@ -55,6 +56,7 @@
     <Folder Include="Multiples\" />
     <Folder Include="MagnetParticulesInBoxes\" />
     <Folder Include="FactorialTail\" />
+    <Folder Include="BaseConversion\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />
     <Folder Include="StringSplit\" />
