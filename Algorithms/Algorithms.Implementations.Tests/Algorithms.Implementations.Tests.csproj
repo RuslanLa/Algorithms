@@ -74,6 +74,7 @@
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
     <Compile Include="Solutions\FactorialTail\CalculatorTests.cs" />
     <Compile Include="Solutions\HammingNumbers\CalculatorTests.cs" />
+    <Compile Include="Solutions\InfiniteSequenceOfNumbers\PositionFinderTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\CalculatorTests.cs" />
