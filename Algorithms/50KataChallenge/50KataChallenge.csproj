@@ -9,6 +9,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\DigitalRoot\Number.cs" Link="DigitalRoot\Number.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Esolang\MiniString\Kata.cs" Link="Esolang\Ministring\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ExpressionCalculator\Kata.cs" Link="ExpressionCalculator\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\FactorialTail\Kata.cs" Link="FactorialTail\Kata.cs" />
@@ -58,6 +59,7 @@
     <Folder Include="MagnetParticulesInBoxes\" />
     <Folder Include="FactorialTail\" />
     <Folder Include="BaseConversion\" />
+    <Folder Include="DigitalRoot\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />
