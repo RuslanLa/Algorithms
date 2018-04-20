@@ -4,6 +4,10 @@ using System.Linq;
 
 namespace Algorithms.Implementations.Solutions.InfiniteSequenceOfNumbers
 {
+    /// <summary>
+    /// Solution for the KATA https://www.codewars.com/kata/the-position-of-a-digital-string-in-a-infinite-digital-string
+    /// Pass tests only partly
+    /// </summary>
     public class PositionFinder
     {
         public long Find(string sequence)
