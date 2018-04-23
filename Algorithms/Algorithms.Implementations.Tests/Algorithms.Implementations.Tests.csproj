@@ -76,6 +76,7 @@
     <Compile Include="Solutions\HammingNumbers\CalculatorTests.cs" />
     <Compile Include="Solutions\InfiniteSequenceOfNumbers\PositionFinderTests.cs" />
     <Compile Include="Solutions\IntegersRecreationOne\SumSquaredDivisorsTests.cs" />
+    <Compile Include="Solutions\JohnAndAnnSignupCodewars\CalculatorTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\CalculatorTests.cs" />
     <Compile Include="Solutions\MagnetParticulesInBoxes\MagnetsTests.cs" />

@@ -82,6 +82,8 @@
     <Compile Include="Solutions\IntRecreation\LongExtensions.cs" />
     <Compile Include="Solutions\IntRecreation\SumSquaredDivisors.cs" />
     <Compile Include="Solutions\IQTest\NumberSearcher.cs" />
+    <Compile Include="Solutions\JohnAndAnnSignupCodewars\Calculator.cs" />
+    <Compile Include="Solutions\JohnAndAnnSignupCodewars\Kata.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\Calculator.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\Kata.cs" />
     <Compile Include="Solutions\MagnetParticulesInBoxes\Magnets.cs" />
