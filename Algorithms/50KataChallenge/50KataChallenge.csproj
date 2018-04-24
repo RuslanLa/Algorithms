@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Compile Include="..\Algorithms.Implementations\Solutions\BaseConversion\Kata.cs" Link="BaseConversion\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\BestTravel\Kata.cs" Link="BestTravel\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
@@ -62,6 +63,7 @@
     <Folder Include="BaseConversion\" />
     <Folder Include="DigitalRoot\" />
     <Folder Include="JohnAndAnnSignupCodewars\" />
+    <Folder Include="BestTravel\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />

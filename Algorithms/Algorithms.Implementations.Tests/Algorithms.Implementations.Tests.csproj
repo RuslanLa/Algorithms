@@ -67,6 +67,8 @@
   <ItemGroup>
     <Compile Include="Solutions\BaseConversion\ConverterTests.cs" />
     <Compile Include="Solutions\BasicRegexParserTests.cs" />
+    <Compile Include="Solutions\BestTravel\DistanceCalculatorTests.cs" />
+    <Compile Include="Solutions\BestTravel\Kata.cs" />
     <Compile Include="Solutions\BigPronic\PronicDetectorTest.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGeneratorTests.cs" />
     <Compile Include="Solutions\ExpressionCalculator\EvaluatorTest.cs" />
