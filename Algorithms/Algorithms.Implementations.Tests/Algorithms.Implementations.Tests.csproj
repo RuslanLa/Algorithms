@@ -80,6 +80,7 @@
     <Compile Include="Solutions\JohnAndAnnSignupCodewars\CalculatorTests.cs" />
     <Compile Include="Solutions\LargestHistogramSquareCalculatorTest.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\CalculatorTests.cs" />
+    <Compile Include="Solutions\LongestCommonSequence\SubsequenceSearcherTests.cs" />
     <Compile Include="Solutions\MagnetParticulesInBoxes\MagnetsTests.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilderTests.cs" />
     <Compile Include="Solutions\Multiples\MultiplesCalculatorTests.cs" />

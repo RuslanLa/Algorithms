@@ -22,6 +22,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\IQTest\NumberSearcher.cs" Link="IQTest\NumberSearcher.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\JohnAndAnnSignupCodewars\Kata.cs" Link="JohnAndAnnSignupCodewars\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\LongestCommonSubsequence\Kata.cs" Link="LongestCommonSequence\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MagnetParticulesInBoxes\Magnets.cs" Link="MagnetParticulesInBoxes\Magnets.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MoleculToAtoms\Kata.cs" Link="MoleculToAtoms\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MorseCode\Kata.cs" Link="MorseCode\Kata.cs" />
@@ -66,6 +67,7 @@
     <Folder Include="JohnAndAnnSignupCodewars\" />
     <Folder Include="BestTravel\" />
     <Folder Include="MovingZerosToTheEnd\" />
+    <Folder Include="LongestCommonSequence\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />

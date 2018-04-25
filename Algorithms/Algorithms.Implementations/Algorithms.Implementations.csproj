@@ -88,6 +88,8 @@
     <Compile Include="Solutions\JohnAndAnnSignupCodewars\Kata.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\Calculator.cs" />
     <Compile Include="Solutions\LastDigitOfHugeNumber\Kata.cs" />
+    <Compile Include="Solutions\LongestCommonSubsequence\Kata.cs" />
+    <Compile Include="Solutions\LongestCommonSubsequence\SubsequenceSearcher.cs" />
     <Compile Include="Solutions\MagnetParticulesInBoxes\Magnets.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTree.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilder.cs" />
