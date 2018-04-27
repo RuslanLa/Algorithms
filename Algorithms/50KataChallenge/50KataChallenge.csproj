@@ -24,6 +24,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\LastDigitOfHugeNumber\Kata.cs" Link="LastDigitOfHugeNumber\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\LongestCommonSubsequence\Kata.cs" Link="LongestCommonSequence\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MagnetParticulesInBoxes\Magnets.cs" Link="MagnetParticulesInBoxes\Magnets.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\MiddlePermutation\PermutationBuilder.cs" Link="MiddlePermutation\PermutationBuilder.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MoleculToAtoms\Kata.cs" Link="MoleculToAtoms\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MorseCode\Kata.cs" Link="MorseCode\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\MovingZerosToTheEnd\Kata.cs" Link="MovingZerosToTheEnd\Kata.cs" />
@@ -68,6 +69,7 @@
     <Folder Include="BestTravel\" />
     <Folder Include="MovingZerosToTheEnd\" />
     <Folder Include="LongestCommonSequence\" />
+    <Folder Include="MiddlePermutation\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />

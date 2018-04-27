@@ -82,6 +82,8 @@
     <Compile Include="Solutions\LastDigitOfHugeNumber\CalculatorTests.cs" />
     <Compile Include="Solutions\LongestCommonSequence\SubsequenceSearcherTests.cs" />
     <Compile Include="Solutions\MagnetParticulesInBoxes\MagnetsTests.cs" />
+    <Compile Include="Solutions\MiddlePermutation\Kata.cs" />
+    <Compile Include="Solutions\MiddlePermutation\PermutationBuilderTests.cs" />
     <Compile Include="Solutions\MoleculToAtoms\AtomTreeBuilderTests.cs" />
     <Compile Include="Solutions\Multiples\MultiplesCalculatorTests.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\CounterTests.cs" />
