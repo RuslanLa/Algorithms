@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Algorithms.Implementations.Solutions.MiddlePermutation
 {
@@ -15,21 +12,6 @@ namespace Algorithms.Implementations.Solutions.MiddlePermutation
             {
                 return new string(input.OrderBy(x => x).ToArray());
             }
-
-            //if (input.Length % 2 == 0)
-            //{
-            //    var middle = input.Length / 2 - 1;
-            //    var remainder = input.Select((v, i) => new {v, i}).Where(x => x.i != middle).Select(x => x.v).Reverse();
-            //    return new string(new[] { input[middle] }.Concat(remainder).ToArray());
-            //}
-
-            //else
-            //{
-            //    var middle = input.Length / 3;
-            //    var others = BuildMiddle(new string(input.Select((v, i) => new { v, i }).Where(x => x.i != middle).Select(x => x.v).ToArray()));
-            //    return input[middle]+others;
-            //}
-
             var nums = Enumerable.Range(0, input.Length).ToArray();
             var permutationsCount = Factorize((uint)input.Length);
             nums = FillPermutations(nums, permutationsCount/2, permutationsCount / (uint)(input.Length), 0, (uint)input.Length - 1);
@@ -37,7 +19,7 @@ namespace Algorithms.Implementations.Solutions.MiddlePermutation
             return new string(chars);
         }
 
-        public IEnumerable<char> BuildChars(char[] initial, int[] positions)
+        private IEnumerable<char> BuildChars(char[] initial, int[] positions)
         {
             foreach (var position in positions)
             {
