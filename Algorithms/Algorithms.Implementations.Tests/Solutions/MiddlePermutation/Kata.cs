@@ -4,6 +4,9 @@ using System.Numerics;
 
 namespace myjinxin
 {
+    /// <summary>
+    /// Solution for the KATA https://www.codewars.com/kata/58ad317d1541651a740000c5
+    /// </summary>
     public class Kata
     {
         public string MiddlePermutation(string input)
