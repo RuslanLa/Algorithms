@@ -39,6 +39,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Rot13\Kata.cs" Link="Rot13\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SelectMedian\Kata.cs" Link="SelectMedian\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SquareDecomposition\Kata.cs" Link="SquareDecomposition\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\StringsMix\Kata.cs" Link="StringsMix\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\StringSplit\Splitter.cs" Link="StringSplit\Splitter.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SumByFactors\SumOfDivided.cs" Link="SumByFactors\SumOfDivided.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\TicTacToe\Kata.cs" Link="TicTacToe\Kata.cs" />
@@ -70,6 +71,7 @@
     <Folder Include="MovingZerosToTheEnd\" />
     <Folder Include="LongestCommonSequence\" />
     <Folder Include="MiddlePermutation\" />
+    <Folder Include="StringsMix\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
     <Folder Include="PerfectTree\" />

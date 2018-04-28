@@ -123,6 +123,8 @@
     <Compile Include="Solutions\SelectMedian\Kata.cs" />
     <Compile Include="Solutions\SquareDecomposition\Decomposer.cs" />
     <Compile Include="Solutions\SquareDecomposition\Kata.cs" />
+    <Compile Include="Solutions\StringsMix\Kata.cs" />
+    <Compile Include="Solutions\StringsMix\Mixer.cs" />
     <Compile Include="Solutions\StringSplit\Splitter.cs" />
     <Compile Include="Solutions\SumByFactors\SumOfDivided.cs" />
     <Compile Include="Solutions\SwimmingPool\WaterCounter.cs" />
