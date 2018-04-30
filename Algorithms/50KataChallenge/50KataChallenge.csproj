@@ -43,6 +43,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\StringSplit\Splitter.cs" Link="StringSplit\Splitter.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\SumByFactors\SumOfDivided.cs" Link="SumByFactors\SumOfDivided.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\TicTacToe\Kata.cs" Link="TicTacToe\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\TwiceLinear\Kata.cs" Link="TwiceLinear\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
   </ItemGroup>
 
@@ -71,6 +72,7 @@
     <Folder Include="MovingZerosToTheEnd\" />
     <Folder Include="LongestCommonSequence\" />
     <Folder Include="MiddlePermutation\" />
+    <Folder Include="TwiceLinear\" />
     <Folder Include="StringsMix\" />
     <Folder Include="SquareDecomposition\" />
     <Folder Include="NextSmallerPronic\" />
