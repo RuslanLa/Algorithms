@@ -14,6 +14,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Esolang\MiniString\Kata.cs" Link="Esolang\Ministring\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ExpressionCalculator\Kata.cs" Link="ExpressionCalculator\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\FactorialTail\Kata.cs" Link="FactorialTail\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\FiboAkin\Fibkind.cs" Link="FiboAkin\Fibkind.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Graphics\Circle\Kata.cs" Link="Graphics\Circles\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Graphics\Line\Kata.cs" Link="Graphics\Line\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\HammingNumbers\Kata.cs" Link="HammingNumbers\Kata.cs" />
@@ -73,6 +74,7 @@
     <Folder Include="MovingZerosToTheEnd\" />
     <Folder Include="LongestCommonSequence\" />
     <Folder Include="MiddlePermutation\" />
+    <Folder Include="FiboAkin\" />
     <Folder Include="TopDownMovement\" />
     <Folder Include="TwiceLinear\" />
     <Folder Include="StringsMix\" />
