@@ -137,6 +137,11 @@
     <Compile Include="Solutions\Strings\Medium\SherlockAndAnagrams\OrderedWord.cs" />
     <Compile Include="Solutions\TicTacToe\Kata.cs" />
     <Compile Include="Solutions\TicTacToe\Player.cs" />
+    <Compile Include="Solutions\TopDownMovement\Direction.cs" />
+    <Compile Include="Solutions\TopDownMovement\Input.cs" />
+    <Compile Include="Solutions\TopDownMovement\Kata.cs" />
+    <Compile Include="Solutions\TopDownMovement\PlayerMovement.cs" />
+    <Compile Include="Solutions\TopDownMovement\Tile.cs" />
     <Compile Include="Solutions\TwiceLinear\Kata.cs" />
     <Compile Include="Solutions\TwiceLinear\Sequence.cs" />
     <Compile Include="Solutions\UnknownDigit\DigitCalculator.cs" />
