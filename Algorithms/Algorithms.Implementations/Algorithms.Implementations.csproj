@@ -106,6 +106,7 @@
     <Compile Include="Solutions\NextSmallerPronic\Calculator.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Counter.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Kata.cs" />
+    <Compile Include="Solutions\PackingABackpack\Packer.cs" />
     <Compile Include="Solutions\PerfectTree\TreeNode.cs" />
     <Compile Include="Solutions\RangeExtraction\IntArrayExtensions.cs" />
     <Compile Include="Solutions\RangeExtraction\Kata.cs" />

@@ -32,6 +32,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\Multiples\Kata.cs" Link="Multiples\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\NextSmallerPronic\Calculator.cs" Link="NextSmallerPronic\Calculator.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\NonBouncyNumbers\Kata.cs" Link="NonBouncyNumbers\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\PackingABackpack\Packer.cs" Link="PackingABackpack\Packer.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\PerfectTree\TreeNode.cs" Link="PerfectTree\TreeNode.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\RangeExtraction\Kata.cs" Link="RangeExtraction\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ReadableDurationFormat\Kata.cs" Link="ReadableDurationFormat\Kata.cs" />
@@ -75,6 +76,7 @@
     <Folder Include="LongestCommonSequence\" />
     <Folder Include="MiddlePermutation\" />
     <Folder Include="FiboAkin\" />
+    <Folder Include="PackingABackpack\" />
     <Folder Include="TopDownMovement\" />
     <Folder Include="TwiceLinear\" />
     <Folder Include="StringsMix\" />
