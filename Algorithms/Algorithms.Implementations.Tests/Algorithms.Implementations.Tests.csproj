@@ -74,6 +74,7 @@
     <Compile Include="Solutions\ExpressionCalculator\EvaluatorTest.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />
+    <Compile Include="Solutions\FactorialDecomposition\DecomposerTests.cs" />
     <Compile Include="Solutions\FactorialTail\CalculatorTests.cs" />
     <Compile Include="Solutions\HammingNumbers\CalculatorTests.cs" />
     <Compile Include="Solutions\InfiniteSequenceOfNumbers\PositionFinderTests.cs" />

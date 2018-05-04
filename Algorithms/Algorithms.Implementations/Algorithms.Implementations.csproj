@@ -63,6 +63,8 @@
     <Compile Include="Solutions\Darts\ScoreCalculator.cs" />
     <Compile Include="Solutions\DivisibleSumPairs\WaysCounter.cs" />
     <Compile Include="Solutions\ExpressionCalculator\Kata.cs" />
+    <Compile Include="Solutions\FactorialDecomposition\Decomposer.cs" />
+    <Compile Include="Solutions\FactorialDecomposition\Kata.cs" />
     <Compile Include="Solutions\FactorialTail\Calculator.cs" />
     <Compile Include="Solutions\FactorialTail\Kata.cs" />
     <Compile Include="Solutions\FiboAkin\Fibkind.cs" />

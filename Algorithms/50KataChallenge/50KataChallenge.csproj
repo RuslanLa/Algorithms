@@ -9,7 +9,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\BestTravel\Kata.cs" Link="BestTravel\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BigPronic\PronicDetector.cs" Link="BigPronic\PronicDetector.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\BreadCrumb\Kata.cs" Link="BreadCrumb\Kata.cs" />
-    <Compile Include="..\Algorithms.Implementations\Solutions\BuddyPairs\Kata.cs" Link="BuddyPairs\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\BuddyPairs\Kata.cs" Link="FactorialDecomposition\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Darts\Kata.cs" Link="Darts\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\DigitalRoot\Number.cs" Link="DigitalRoot\Number.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\Esolang\MiniString\Kata.cs" Link="Esolang\Ministring\Kata.cs" />
@@ -78,6 +78,7 @@
     <Folder Include="MiddlePermutation\" />
     <Folder Include="FiboAkin\" />
     <Folder Include="BuddyPairs\" />
+    <Folder Include="FactorialDecomposition\" />
     <Folder Include="PackingABackpack\" />
     <Folder Include="TopDownMovement\" />
     <Folder Include="TwiceLinear\" />
