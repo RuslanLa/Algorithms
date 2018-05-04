@@ -52,6 +52,8 @@
     <Compile Include="Solutions\BigPronic\PronicDetector.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGenerator.cs" />
     <Compile Include="Solutions\BreadCrumb\Kata.cs" />
+    <Compile Include="Solutions\BuddyPairs\Kata.cs" />
+    <Compile Include="Solutions\BuddyPairs\PairsSearcher.cs" />
     <Compile Include="Solutions\DigitalRoot\Number.cs" />
     <Compile Include="Solutions\Esolang\MiniString\Interpreter.cs" />
     <Compile Include="Solutions\Esolang\MiniString\Kata.cs" />
