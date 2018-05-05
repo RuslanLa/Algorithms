@@ -49,6 +49,7 @@
     <Compile Include="..\Algorithms.Implementations\Solutions\TopDownMovement\Kata.cs" Link="TopDownMovement\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\TwiceLinear\Kata.cs" Link="TwiceLinear\Kata.cs" />
     <Compile Include="..\Algorithms.Implementations\Solutions\ValidParentheses\Kata.cs" Link="Valid Parentheses\Kata.cs" />
+    <Compile Include="..\Algorithms.Implementations\Solutions\WeightForWeight\Kata.cs" Link="WeightForWeight\Kata.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -79,6 +80,7 @@
     <Folder Include="FiboAkin\" />
     <Folder Include="BuddyPairs\" />
     <Folder Include="FactorialDecomposition\" />
+    <Folder Include="WeightForWeight\" />
     <Folder Include="PackingABackpack\" />
     <Folder Include="TopDownMovement\" />
     <Folder Include="TwiceLinear\" />
