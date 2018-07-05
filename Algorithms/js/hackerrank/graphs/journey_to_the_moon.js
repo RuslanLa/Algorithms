@@ -1,4 +1,5 @@
 "use strict";
+//@ts-check
 
 /**Solution for the  https://www.hackerrank.com/challenges/journey-to-the-moon/problem*/
 const fs = require("fs");
@@ -6,15 +7,16 @@ const fs = require("fs");
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 
-let inputString = "";
+let input = "";
+let inputString = [];
 let currentLine = 0;
 
 process.stdin.on("data", inputStdin => {
-  inputString += inputStdin;
+  input += inputStdin;
 });
 
 process.stdin.on("end", _ => {
-  inputString = inputString
+  inputString = input
     .replace(/\s*$/, "")
     .split("\n")
     .map(str => str.replace(/\s*$/, ""));
@@ -27,11 +29,11 @@ function readLine() {
 }
 
 function calculateFactorial(n) {
-  let n = 1;
+  let result = 1;
   for (let i = 2; i <= n; i++) {
-    n *= i;
+    result *= i;
   }
-  return n;
+  return result;
 }
 
 function buildGroups(n, astronaut) {

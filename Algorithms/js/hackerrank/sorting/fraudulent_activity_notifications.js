@@ -1,3 +1,4 @@
+//@ts-check
 "use strict";
 
 /**Solution for the Hackerrank Issue https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem */
@@ -7,15 +8,16 @@ const fs = require("fs");
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 
-let inputString = "";
+let input = "";
+let inputString = [];
 let currentLine = 0;
 
 process.stdin.on("data", inputStdin => {
-  inputString += inputStdin;
+  input += inputStdin;
 });
 
 process.stdin.on("end", _ => {
-  inputString = inputString
+  inputString = input
     .replace(/\s*$/, "")
     .split("\n")
     .map(str => str.replace(/\s*$/, ""));
