@@ -71,6 +71,7 @@
     <Compile Include="Solutions\BigPronic\PronicDetectorTest.cs" />
     <Compile Include="Solutions\BreadCrumb\BreadCrumbGeneratorTests.cs" />
     <Compile Include="Solutions\BuddyPairs\PairsSearcherTests.cs" />
+    <Compile Include="Solutions\ClimbingTheLeaderboard\DenseRankCalculatorTests.cs" />
     <Compile Include="Solutions\ExpressionCalculator\EvaluatorTest.cs" />
     <Compile Include="Solutions\CalendarMergerTests.cs" />
     <Compile Include="Solutions\Darts\ScoreCaluclatorTests.cs" />

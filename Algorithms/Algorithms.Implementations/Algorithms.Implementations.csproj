@@ -54,6 +54,8 @@
     <Compile Include="Solutions\BreadCrumb\Kata.cs" />
     <Compile Include="Solutions\BuddyPairs\Kata.cs" />
     <Compile Include="Solutions\BuddyPairs\PairsSearcher.cs" />
+    <Compile Include="Solutions\ClimbingTheLeaderboard\DenseRankCalculator.cs" />
+    <Compile Include="Solutions\ClimbingTheLeaderboard\Solution.cs" />
     <Compile Include="Solutions\DigitalRoot\Number.cs" />
     <Compile Include="Solutions\EqualSidesOfAnArray\IndexFinder.cs" />
     <Compile Include="Solutions\Esolang\MiniString\Interpreter.cs" />
