@@ -57,6 +57,8 @@
     <Compile Include="Solutions\ClimbingTheLeaderboard\DenseRankCalculator.cs" />
     <Compile Include="Solutions\ClimbingTheLeaderboard\Solution.cs" />
     <Compile Include="Solutions\DigitalRoot\Number.cs" />
+    <Compile Include="Solutions\Encryption\Encryptor.cs" />
+    <Compile Include="Solutions\Encryption\Solution.cs" />
     <Compile Include="Solutions\EqualSidesOfAnArray\IndexFinder.cs" />
     <Compile Include="Solutions\Esolang\MiniString\Interpreter.cs" />
     <Compile Include="Solutions\Esolang\MiniString\Kata.cs" />
@@ -114,6 +116,7 @@
     <Compile Include="Solutions\NextSmallerPronic\Calculator.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Counter.cs" />
     <Compile Include="Solutions\NonBouncyNumbers\Kata.cs" />
+    <Compile Include="Solutions\NonDivisibleSubset\Solution.cs" />
     <Compile Include="Solutions\NonDivisibleSubset\SubsetLengthCalculator.cs" />
     <Compile Include="Solutions\PackingABackpack\Packer.cs" />
     <Compile Include="Solutions\PerfectTree\TreeNode.cs" />
